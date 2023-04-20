@@ -1,7 +1,3 @@
-# Examen 2 Elementos de Computacion
-# # Hecho por Liu Ching Richard y Fiorella Rodríguez Sanchez
-# Carnes: 2022040607 y 2022230692 respectivamente
-
 # Se importa la biblioteca de tkinter
 from tkinter import *
 
